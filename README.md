@@ -1,2 +1,2 @@
-# food-app-pr
-
+# DineEase - Food app 
+Crafted a dynamic, fully responsive Food Delivery web application employing the MERN stack, enriched with Bootstrap to deliver an intuitive user interface (UI). The application encompasses user registration, seamless login, and sign-up functionalities, all complemented by an engaging home page for effortless menu exploration and streamlined order placement. A robust authentication system fortified with JWT Tokens ensures top-notch security throughout the user experience.
