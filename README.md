@@ -16,3 +16,6 @@ Crafted a dynamic, fully responsive Food Delivery web application employing the 
 <img width="1468" alt="Screenshot 2023-09-29 at 9 57 54 PM" src="https://github.com/keeratKaur18/DineEase_Food_app/assets/98026175/ba515775-4b29-41e0-afba-30837fad3e16">
 
 <img width="1469" alt="Screenshot 2023-09-29 at 9 58 14 PM" src="https://github.com/keeratKaur18/DineEase_Food_app/assets/98026175/7716c7f6-baef-40e8-aa3d-416e19a62606">
+
+## Demo Video 
+https://drive.google.com/file/d/17IHyJfYz9cxGupr72kZsqkdqUt_ouj9k/view?usp=sharing
